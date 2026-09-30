@@ -1,0 +1,6 @@
+{
+  "name": "MEB PDR Norm ve Rehber Öğretmen İhtiyaç Analizi & Tahmin Platformu",
+  "description": "Türkiye genelinde MEB mevzuatına göre okul rehber öğretmen normu, öğrenci sayıları, köy/kasaba okulu ağırlıklı personel ihtiyaç planlaması ve R/Python tahmin modelleri dashboard'u.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
